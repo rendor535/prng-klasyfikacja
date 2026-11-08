@@ -1,3 +1,4 @@
+# NA RAZIE TUTAJ JEST SLOP
 # Klasyfikacja położenia polskich miejscowości na podstawie nazw
 
 Porównanie regresji logistycznej, k-NN i Random Forest na nazwach miejscowości z PRNG.
