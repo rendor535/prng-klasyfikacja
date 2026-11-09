@@ -1,0 +1,27 @@
+{
+  "rows_original": 124238,
+  "boundary_latitude": 52.0,
+  "rows_after_category": 124238,
+  "rows_after_main_point": 124238,
+  "rows_after_official_status": 101334,
+  "rows_after_city_village": 44664,
+  "rows_after_nonempty": 44664,
+  "rows_invalid_coordinates": 0,
+  "rows_duplicate_prng_id": 0,
+  "rows_final": 44664,
+  "class_counts": {
+    "poludnie": 21564,
+    "polnoc": 23100
+  },
+  "name_groups": 31117,
+  "repeated_name_groups": 5137,
+  "ambiguous_name_groups": 2289,
+  "latitude_summary": {
+    "min": 49.025277777777774,
+    "median": 52.06055555555555,
+    "mean": 52.05342434001034,
+    "max": 54.83111111111111
+  },
+  "input_file": "PRNG_MIEJSCOWOSCI_XLSX.xlsx",
+  "input_sheet": "PRNG_MIEJSCOWOSCI_XLS"
+}
