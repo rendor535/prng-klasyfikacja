@@ -1,0 +1,9 @@
+{
+  "liczba_rekordow": 44664,
+  "liczba_nazw_unikalnych": 31117,
+  "nazwy_powtarzajace_sie_grupy": 5137,
+  "nazwy_obie_klasy_grupy": 2289,
+  "rekordy_należące_do_powtarzajacych_sie_nazw": 18684,
+  "rekordy_należące_do_nazw_w_obu_klasach": 11216,
+  "powtorzone_id_prng": 0
+}
